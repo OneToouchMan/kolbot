@@ -1,28 +1,6 @@
 # KOL
 Многофункциональный бот с возможностью изменения баннера, автопостинг из ВК в Discord.
 
-<h2 style="color: #3498db;">
-    <span style="display: inline-block; text-align: center; width: 100%;">
-        <span class="gradient-background" style="font-size: 2em; font-weight: bold;">KOL</span>
-    </span>
-</h2>
-
-<style>
-    .gradient-background {
-        background: linear-gradient(to right, #3498db, #2980b9);
-        -webkit-background-clip: text;
-        color: transparent;
-        display: inline-block;
-    }
-
-    p {
-        text-align: center;
-        font-size: 1.5em; /* Увеличение размера текста внутри тега <p> */
-        margin-bottom: 20px; /* Добавление отступа после текста */
-    }
-</style>
-
-<p>Многофункциональный бот для вашего сервера.</p>
 
 <ul>
     <li>Приватные голосовые каналы внутри чата, не засоряет ваш сервер</li>
