@@ -17,3 +17,7 @@
     <li><strong style="color: #3498db;">Логирование</strong> действий пользователей на вашем сервере</li>
     <li>Получайте новости из открытых групп <strong style="color: #e67e22;">VK | Вконтакте | ВК</strong> и многое другое ждёт тебя!</li>
 </ul>
+
+
+![image](https://github.com/OneTouchMan3123/kolbot/assets/90140490/9d31f107-7ecf-4ed2-8814-147070593c35)
+![image](https://github.com/OneTouchMan3123/kolbot/assets/90140490/b5161585-bc42-4aca-8b1b-1b13fbdb8b24)
