@@ -5,7 +5,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Хорошо подходит для серверов с играми RIOT</h3>
 
-<h1 align="center">Моя документация по боту <a href="https://alims-organization-1.gitbook.io/kol.bot//" target="_blank">KOL.bot</a> 
+<h1 align="center">Моя документация по боту и как добавить <a href="https://alims-organization-1.gitbook.io/kol.bot//" target="_blank">KOL.bot</a> 
 
 
 <ul>
@@ -17,6 +17,7 @@
     <li><strong style="color: #3498db;">Логирование</strong> действий пользователей на вашем сервере</li>
     <li>Получайте новости из открытых групп <strong style="color: #e67e22;">VK | Вконтакте | ВК</strong> и многое другое ждёт тебя!</li>
 </ul>
+
 
 
 ![image](https://github.com/OneTouchMan3123/kolbot/assets/90140490/9d31f107-7ecf-4ed2-8814-147070593c35)
