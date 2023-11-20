@@ -3,7 +3,7 @@
 
 <h1 align="center">KOL <a href="[https://onetouch.bio.link/](https://alims-organization-1.gitbook.io/kol.bot//)" target="_blank">Bot</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Увлекаюсь разработкой ботов для Discord</h3>
+<h3 align="center">Хорошо подходит для серверов с играми RIOT</h3>
 
 <h1 align="center">Моя документация по боту <a href="https://alims-organization-1.gitbook.io/kol.bot//" target="_blank">KOL.bot</a> 
 
